@@ -48,7 +48,3 @@ Edit the constants at the top of `main.py`:
 | `FOV_H_DEG` | 90.0 | Camera horizontal field of view [deg] |
 | `F_CUT_HZ` | 1.5 | Alpha-beta filter cutoff frequency [Hz] |
 | `MAX_SPEED_MS` | 1.0 | Maximum velocity command [m/s] |
-
-
-- [ ] MAVLink integration (in progress)
-- [ ] Real flight testing
